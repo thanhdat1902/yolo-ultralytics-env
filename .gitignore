@@ -1,0 +1,6 @@
+datasets/
+datasets_test/
+runs/
+__pycache__
+*.mp4
+*.pt
